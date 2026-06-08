@@ -1,30 +1,24 @@
-<h1 align="center">Hi 👋, I'm Emilia Gómez</h1>
-<h3 align="center">I am a optimistic student of Software Engineering</h3>
+<h1 align="center">Hi 😸, I'm Emilia </h1>
+<h3 align="center">I am a optimistic student of Software Engineering; and an attempt of a developer</h3> 
 
 ***
-
 - 🔭 My latest project [DayMood](https://github.com/mili-emzz/DayMood.git)
-
 - 🌱 I’m currently learning **all .NET with C#, React and Flutter**
-
 - 💬 Ask me about **Jetpack Compose, Next.js or SQL**
-
 - 📫 How to reach me **gomezutrillaemilia@gmail.com**
-
 - ⚡ Fun fact **I'm into reading and anime**
 
-***
+<p align="center">“There's a million things I haven't done, but just you wait” -Hamilton (The musical)</p>
 
 <h2 align= "center" >Contact me on</h2>
 
 <div align= "center">
 
-<a href="https://linkedin.com/in/www.linkedin.com/in/gómez-utrilla-emilia-621a5a3b9" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="www.linkedin.com/in/gómez-utrilla-emilia-621a5a3b9" height="20" width="50"/> My Linkedin </a>
+<a href="https://linkedin.com/in/www.linkedin.com/in/gómez-utrilla-emilia-621a5a3b9" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="www.linkedin.com/in/gómez-utrilla-emilia-621a5a3b9" height="20" width="50"/> My Linkedin 
+</a>
 <a href="https://discord.gg/_miliemz." target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="_miliemz." height="30" width="40" /> My Discord!</a></div>
 
-***
-<h3 align="center">Skills</h3>
-<p align="center">Currently learning on new things!</p>
+<h2 align="center">Skills</h3>
 
 <h4 align="center" >Programming Lenguages</h4>
 <div align ="center">
@@ -84,8 +78,13 @@
  <a href="https://www.cypress.io" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/6e46ec1fc23b60c8fd0d2f2ff46db82e16dbd75f/icons/cypress.svg" alt="cypress" width="40" height="40"/> </a>
  <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a>
  <a href="https://www.selenium.dev" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/detain/svg-logos/780f25886640cef088af994181646db2f6b1a3f8/svg/selenium-logo.svg" alt="selenium" width="40" height="40"/> </a> 
+
+<br>
 </div>
 
 ***
-
+<br>
 <p align ="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mili-emzz&" alt="mili-emzz" /></p>
+
+<br>
+<h1 align="center">Check my pinned projects !</h1>
