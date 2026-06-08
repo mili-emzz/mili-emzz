@@ -15,7 +15,7 @@
 
 ***
 
-> <h2 align= "center" >Contact me on</h2>
+<h2 align= "center" >Contact me on</h2>
 
 <div align= "center">
 
@@ -24,7 +24,7 @@
 
 ***
 
-> <h3 align="center">Skills</h3>
+<h3 align="center">Skills</h3>
 <p align="center">Currently learning on new things!</p>
 
 <h4 align="center" >Programming Lenguages</h4>
@@ -64,7 +64,7 @@
 <a href="https://dotnet.microsoft.com/apps/aspnet" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original.svg" alt="dotnet" width="50" height="50"/> </a>
 
 *ASP.NET Core 9 - API REST
-Entity Framework Core - ORM para base de datos*
+Entity Framework Core - ORM*
 </div>
 <a href="https://swagger.io" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/swagger/swagger-original.svg" alt="swagger" width="50" height="50"/> </a>
 <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="60" height="50"/> </a>
@@ -97,3 +97,7 @@ Entity Framework Core - ORM para base de datos*
 ***
 
 <p align ="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mili-emzz&" alt="mili-emzz" /></p>
+
+***
+
+## Check my pinned projects !
