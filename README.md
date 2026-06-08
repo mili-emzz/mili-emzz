@@ -100,4 +100,4 @@ Entity Framework Core - ORM*
 
 ***
 
-## Check my pinned projects !
+<h1 align="center">Check my pinned projects !</h1>
