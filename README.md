@@ -2,13 +2,11 @@
 <h3 align="center">I am a optimistic student of Software Engineering; and an attempt of programmer</h3>
 
 ***
-<div align= "center">
 - 🔭 My latest project [DayMood](https://github.com/mili-emzz/DayMood.git)
 - 🌱 I’m currently learning **all .NET with C#, React and Flutter**
 - 💬 Ask me about **Jetpack Compose, Next.js or SQL**
 - 📫 How to reach me **gomezutrillaemilia@gmail.com**
 - ⚡ Fun fact **I'm into reading and anime**
-</div>
 
 ***
 
