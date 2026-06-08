@@ -1,16 +1,12 @@
-<h1 align="center">Hi 👋, I'm Emilia Gómez</h1>
-<h3 align="center">I am a optimistic student of Software Engineering</h3>
+<h1 align="center">Hi 😸, I'm Emilia </h1>
+<h3 align="center">I am a optimistic student of Software Engineering; and an attempt of programmer</h3>
 
 ***
 
 - 🔭 My latest project [DayMood](https://github.com/mili-emzz/DayMood.git)
-
 - 🌱 I’m currently learning **all .NET with C#, React and Flutter**
-
 - 💬 Ask me about **Jetpack Compose, Next.js or SQL**
-
 - 📫 How to reach me **gomezutrillaemilia@gmail.com**
-
 - ⚡ Fun fact **I'm into reading and anime**
 
 ***
@@ -19,7 +15,8 @@
 
 <div align= "center">
 
-<a href="https://linkedin.com/in/www.linkedin.com/in/gómez-utrilla-emilia-621a5a3b9" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="www.linkedin.com/in/gómez-utrilla-emilia-621a5a3b9" height="20" width="50"/> My Linkedin </a>
+<a href="https://linkedin.com/in/www.linkedin.com/in/gómez-utrilla-emilia-621a5a3b9" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="www.linkedin.com/in/gómez-utrilla-emilia-621a5a3b9" height="20" width="50"/> My Linkedin 
+</a>
 <a href="https://discord.gg/_miliemz." target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="_miliemz." height="30" width="40" /> My Discord!</a></div>
 
 ***
@@ -60,12 +57,7 @@
 <h4 align="center" >Backend and Databases</h4>
 <div align="center">
 
-<div>
-<a href="https://dotnet.microsoft.com/apps/aspnet" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original.svg" alt="dotnet" width="50" height="50"/> </a>
-
-*ASP.NET Core 9 - API REST
-Entity Framework Core - ORM*
-</div>
+<a href="https://dotnet.microsoft.com/apps/aspnet" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original.svg" alt="dotnet" width="50" height="50"/> </a> 
 <a href="https://swagger.io" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/swagger/swagger-original.svg" alt="swagger" width="50" height="50"/> </a>
 <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="60" height="50"/> </a>
 <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="50" height="50"/> </a>
