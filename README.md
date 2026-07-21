@@ -1,5 +1,5 @@
 <h1 align="center">Hi 😸, I'm Emilia </h1>
-<h3 align="center">I am a optimistic student of Software Engineering; and a developer attempt</h3> 
+<h3 align="center">I am an optimistic student of Software Engineering; and a developer attempt</h3> 
 
 ***
 - 🔭 My latest project [DayMood](https://github.com/mili-emzz/DayMood.git)
